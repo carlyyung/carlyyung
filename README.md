@@ -18,7 +18,7 @@ I'm always open to collaborating on projects that blend technology and social im
 Let’s build something meaningful together!
 #### 💼 Professional Experience  
 **Digital Communications Coordinator**  
-*King's College London, Alumni Office* | *London* | *2024 – present*  
+*King's College London, Alumni Office* | *London* | *2024 – Present*  
 - Led the department's end-of-year analysis and summary of all events and communications projects, including audience engagement metrics. [View project highlights](https://www.instagram.com/p/DECSoGAM2Ib/?utm_source=ig_web_copy_link)
 - Spearheaded a data-driven project utilizing tracking systems and audience analysis, resulting in a **15x increase in audience engagement**.  
 - Summarize weekly performance of social media content, analyzing metrics to identify trends and optimize future posts for maximum engagement.
@@ -40,6 +40,7 @@ Let’s build something meaningful together!
 - Contribute to the dissemination of findings through research reports, blogs, and academic publications.  
 
 #### **Junior Research Associate**  
+*University of Sussex* | *Brighton* | *2021*  
 - Designed and led research on a media project
 - Collected data on Nexis
 - Conducted frame analysis
