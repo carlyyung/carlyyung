@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlyyung
-- 👀 I’m interested in nlp, digital health and data governance
+- 👀 I’m interested in AI, data equity and data governance
 - 🌱 I’m currently learning natural language processing
 - 📫 How to reach me by email: yungcarlyifnt@gmail.com
 
