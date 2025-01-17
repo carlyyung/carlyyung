@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @carlyyung!  
-Welcome to my GitHub profile! I am a recent graduate aspiring to pursue a career in analytics, with a passion for leveraging AI to promote data equity and explore data governance to drive meaningful change. My interests lie at the intersection of technology and socio-cultural research, and I am particularly drawn to projects that use data to foster inclusivity and equity.
+Welcome to my GitHub profile! I am a recent graduate aspiring to pursue a career in analytics, with a passion for leveraging AI to promote data equity and explore data governance to drive meaningful change. My interests lie at the intersection of technology and socio-cultural research, and I am particularly drawn to projects that use data to foster inclusivity and equity. Additionally, I am eager to develop expertise in driving business growth through data, with a focus on sustainable practices and creating long-term value.
 
 #### 🌱 What I'm Working On  
 - Expanding my skills in **Natural Language Processing (NLP)** to analyze and understand unstructured text data.  
